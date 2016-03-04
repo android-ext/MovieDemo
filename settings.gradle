@@ -1,0 +1,1 @@
+include ':luckyPan', ':arcmenu', ':circleimage', ':bannercarousel', ':base-adapter-master'

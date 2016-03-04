@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MovieDemo.iml" filepath="$PROJECT_DIR$/MovieDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcmenu/arcmenu.iml" filepath="$PROJECT_DIR$/arcmenu/arcmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bannercarousel/bannercarousel.iml" filepath="$PROJECT_DIR$/bannercarousel/bannercarousel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-adapter-master/base-adapter-master.iml" filepath="$PROJECT_DIR$/base-adapter-master/base-adapter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimage/circleimage.iml" filepath="$PROJECT_DIR$/circleimage/circleimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyPan/luckyPan.iml" filepath="$PROJECT_DIR$/luckyPan/luckyPan.iml" />
+    </modules>
+  </component>
+</project>
