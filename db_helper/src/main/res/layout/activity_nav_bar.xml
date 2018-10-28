@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.json.dbdemo.view.PagerSlidingTabStrip
+        android:id="@+id/indicator_view"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/indicator_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

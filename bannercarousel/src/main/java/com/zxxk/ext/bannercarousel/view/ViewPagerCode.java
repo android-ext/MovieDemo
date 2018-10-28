@@ -72,7 +72,7 @@ import java.util.List;
  * <p>Note this class is currently under early design and
  * development.  The API will likely change in later updates of
  * the compatibility library, requiring changes to the source code
- * of apps when they are compiled against the newer version.</p>
+ * of apps when they are implementationd against the newer version.</p>
  *
  * <p>ViewPager is most often used in conjunction with {@link android.app.Fragment},
  * which is a convenient way to supply and manage the lifecycle of each page.

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DBDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="main_tv_recycler_text">RecyclerView测试</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_bar">NavBarActivity</string>
+
+
+    <string name="page_text0">This is the first page!</string>
+    <string name="page_text1">This is the second page!</string>
+
+    <string name="tip_text">Slide or click tab to change another.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_base_btn_text">启动新页面</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="reset_data_text">重置数据</string>
+    <string name="change_data_text">修改数据</string>
+    <string name="return_btn_text">返回上一页</string>
+</resources>

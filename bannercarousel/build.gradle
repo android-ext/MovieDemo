@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "22.0.1"
+    compileSdkVersion rootProject.compileVersion
 
     defaultConfig {
         applicationId "com.zxxk.ext.bannercarousel"
-        minSdkVersion 9
-        targetSdkVersion 22
+        minSdkVersion rootProject.minSdkVersion
+        targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
         versionName "1.0"
     }
@@ -20,7 +19,7 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:22.2.1'
-    compile files('libs/android_volley_manager_1.05.jar')
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation rootProject.depsLibs.supportV7
+    implementation files('libs/android_volley_manager_1.05.jar')
 }
